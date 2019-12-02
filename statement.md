@@ -7,8 +7,7 @@ Voici le problème posé :
 Nous allons afficher 10 calculs pour Alice
 
 ```python runnable
- 2+3
-
+2+3
 ```
 
 # Advanced usage
